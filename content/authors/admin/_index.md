@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Neuroscience PhD Candidate
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Alexandra Fischbach
 
 # Full name (for SEO)
 first_name: Alexandra
