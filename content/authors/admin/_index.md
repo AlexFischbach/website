@@ -3,7 +3,7 @@
 title: Alexandra Fischbach
 
 # Name pronunciation (optional)
-name_pronunciation: Alexandra Fischbach
+# name_pronunciation: Alexandra Fischbach
 
 # Full name (for SEO)
 first_name: Alexandra
@@ -41,16 +41,16 @@ profiles:
   - icon: brands/github
     url: https://github.com/AlexFischbach/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/alexandra-k-fischbach/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=_X25a_oAAAAJ&hl=en/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-7927-9176/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neuroimaging 
+  - Measurement Precision
+  - Method Development
 
 education:
   - area: PhD Artificial Intelligence
