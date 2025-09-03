@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Neuroscience PhD Candidate
+title: Alexandra Fischbach
 
 # Name pronunciation (optional)
 name_pronunciation: Alexandra Fischbach
@@ -14,7 +14,7 @@ last_name: Fischbach
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧠
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Neuroscience PhD Candidate 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,14 +34,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:alexkfischbach@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/AlexFischbach_/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/AlexFischbach/
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -186,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alex Fischbach is a 6th year Neuroscience PhD student at Northeastern University. Her research interests include neuroimaging (fMRI), measurement precision, and method development.
