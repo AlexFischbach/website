@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Neuroscience PhD Candidate 
+title: Alex Fischbach
 
 # Name pronunciation (optional)
 # name_pronunciation: Alexandra Fischbach
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Alexandra Fischbach
+role: Neuroscience PhD Candidate 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: NeuroPRISM Lab, Northeastern University
+    url: https://neuroprismlab.github.io/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -58,7 +58,13 @@ education:
     date_start: 2020-08-01
     date_end: 2022-08-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2
+
+  - area: B.A Biology, B.A Psychology, Neuroscience Certificate
+    institution: Providence College
+    date_start: 2013-08-01
+    date_end: 2017-08-01
+Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -183,5 +189,4 @@ awards:
 ---
 
 ## About Me
-
-Alex Fischbach is a 6th year Neuroscience PhD student at Northeastern University. Her research interests include neuroimaging (fMRI), measurement precision, and method development.
+Currently a 6th-year Neuroscience PhD student at Northeastern University with Dr. Stephanie Noble. I completed my B.A in Biology, B.A in Psychology and Neuroscience Certificate at Providence College in 2017.
