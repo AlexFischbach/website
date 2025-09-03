@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alexandra Fischbach
+title: Neuroscience PhD Candidate 
 
 # Name pronunciation (optional)
 # name_pronunciation: Alexandra Fischbach
@@ -53,10 +53,10 @@ interests:
   - Method Development
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S Neuroscience
+    institution: Northeastern University
+    date_start: 2020-08-01
+    date_end: 2022-08-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
