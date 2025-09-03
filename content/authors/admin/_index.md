@@ -58,9 +58,9 @@ education:
     date_start: 2020-08-01
     date_end: 2022-08-01
     summary: |
-      Research Focus: Affective neuroscience, ultra-high-resolution neuroimaging, brain-body communication, predictive processing.  
-      Supervised by [Dr. Lisa Feldman Barrett](https://lisafeldmanbarrett.com/) and Dr. Karen Quigley.
-      Published a first-author [peer-reviewed article](https://www.jneurosci.org/content/44/26/e1757232024/), which was recognized with distinction as Featured Article and                  received international recognition through coverage in [Scientific American](https://www.scientificamerican.com/article/simplistic-fight-or-flight-idea-undervalues-the-brains-        predictive-powers/)
+      -  Research Focus: Affective neuroscience, ultra-high-resolution neuroimaging, brain-body communication, predictive processing.  
+      -  Supervised by [Dr. Lisa Feldman Barrett](https://lisafeldmanbarrett.com/) and Dr. Karen Quigley.
+      -  Published a first-author [peer-reviewed article](https://www.jneurosci.org/content/44/26/e1757232024/), which was recognized with distinction as Featured Article and                  received international recognition through coverage in [Scientific American](https://www.scientificamerican.com/article/simplistic-fight-or-flight-idea-undervalues-the-brains-predictive-powers/)
     button:
       text: 'Read Thesis'
       url: 'https://www.jneurosci.org/content/44/26/e1757232024/'
@@ -71,7 +71,6 @@ education:
     summary: |
       GPA: 3.72/4.0
 
-      Summary:
       - Admitted as one of eight students annually to the Neuroscience Program, a selective cohort of biology and psychology double majors recognized for academic excellence and              research focus. 
       - Conducted research at Brown University, investigating the behavioral and biological processes related to Body Dysmorphic Disorder.
       - Conducted research at Providence College, investigating how control over stressors during juvenility and adolescence mediates the impact of trauma on the development of               pathology in adulthood.
