@@ -58,8 +58,7 @@ education:
     date_start: 2020-08-01
     date_end: 2022-08-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2
-      Springer journals.
+      Research Focus: Affective neuroscience, brain-body communication, predictive processing. Supervised by [Dr. Lisa Feldman Barrett](https://lisafeldmanbarrett.com/) and Dr. Karen Quigley. Published a first-author [peer-reviewed article](https://www.jneurosci.org/content/44/26/e1757232024/), which was recognized with distinction as Featured Article and received international recognition through coverage in Scientific American.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
