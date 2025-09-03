@@ -43,7 +43,18 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+      ### The Problem
+
+      My research program addresses a fundamental problem in neuroimaging: differentiating meaningful neural signals from noise—factors that influence the fMRI signal but are unrelated to brain activity.
+
+      If not properly removed, this noise:
+      - reduces statistical power
+      - decreases the likelihood of detecting true effects
+      - increases false positives
+      - ultimately undermines confidence in findings
+
+       
+
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
