@@ -108,11 +108,11 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Statistical Modeling
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Data Visualization
         description: ''
         percent: 40
         icon: circle-stack
@@ -120,11 +120,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Sculpting 
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Live Music
         description: ''
         percent: 100
         icon: cat
@@ -136,10 +136,7 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
