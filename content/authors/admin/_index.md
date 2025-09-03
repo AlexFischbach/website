@@ -3,7 +3,6 @@
 title: Alex Fischbach
 
 # Name pronunciation (optional)
-# name_pronunciation: Alexandra Fischbach
 
 # Full name (for SEO)
 first_name: Alexandra
