@@ -64,7 +64,7 @@ education:
     institution: Providence College
     date_start: 2013-08-01
     date_end: 2017-08-01
-Springer journals.
+Springer journals:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
