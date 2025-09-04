@@ -56,7 +56,7 @@ education:
   - area: M.S Neuroscience
     institution: Northeastern University
     date_start: 2020-08-01
-    date_end: 2022-08-01
+    date_end: 2023-08-01
     summary: |
       -  Research Focus: Affective neuroscience, ultra-high-resolution neuroimaging, brain-body communication, predictive processing.  
       -  Supervised by [Dr. Lisa Feldman Barrett](https://lisafeldmanbarrett.com/) and Dr. Karen Quigley.
@@ -76,6 +76,9 @@ education:
       - Conducted research at Providence College, investigating how control over stressors during juvenility and adolescence mediates the impact of trauma on the development of               pathology in adulthood.
 work:
   - position: Director of Cloud Infrastructure
+    button:
+      text: 'Download CV'
+      url: '/static/uploads/cv.pdf'
     company_name: GenCoin
     company_url: ''
     company_logo: ''
