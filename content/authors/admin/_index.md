@@ -78,7 +78,7 @@ work:
   - position: Director of Cloud Infrastructure
     button:
       text: 'Download CV'
-      url: '/static/uploads/cv.pdf'
+      url: 'uploads/cv.pdf'
     company_name: GenCoin
     company_url: ''
     company_logo: ''
