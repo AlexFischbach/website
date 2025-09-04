@@ -52,12 +52,9 @@ sections:
 
        To overcome these challenges, my research develops novel computational methods to identify and remove this artifactual signal, thereby enhancing the accuracy and reliability          of fMRI data.
 
-    By strengthening measurement precision and interpretability, this work enables more robust and actionable insights into brain function
-
-    
-
-       
-
+       By strengthening measurement precision and interpretability, this work enables more robust and actionable insights into brain function
+  
+.
     design:
       columns: '1'
   - block: collection
