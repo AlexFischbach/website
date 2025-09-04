@@ -94,8 +94,8 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
       <p>
-        <a href="/uploads/cv.pdf" class="btn btn-primary">Download CV</a>
-        <a href="/uploads/resume.pdf" class="btn btn-outline">Download Resume</a>
+        <a href="uploads/cv.pdf" class="btn btn-primary">Download CV</a>
+        <a href="uploads/resume.pdf" class="btn btn-outline">Download Resume</a>
       </p>
   - position: Backend Software Engineer
     company_name: X
