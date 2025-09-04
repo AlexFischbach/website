@@ -176,4 +176,4 @@ awards:
 ---
 
 ## About Me
-Currently a 6th-year Neuroscience PhD student at Northeastern University with Dr. Stephanie Noble. I completed my B.A in Biology, B.A in Psychology and Neuroscience Certificate at Providence College in 2017.
+Currently a 6th-year Neuroscience PhD student at Northeastern University with Dr. Stephanie Noble in the Neuroscience Precision Research & Idiographic Statistical Methods (NeuroPRISM) Lab, using fundamental measurement principles and individual-centered methods to advance brain-behavior understanding and prediction.
