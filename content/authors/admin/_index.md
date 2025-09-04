@@ -76,12 +76,12 @@ education:
       - Conducted research at Providence College, investigating how control over stressors during juvenility and adolescence mediates the impact of trauma on the development of               pathology in adulthood.
 work:
   - position: Director of Cloud Infrastructure
-    button:
-      text: 'Download CV'
-      url: 'uploads/cv.pdf'
-    button:
-      text: 'Download Resume'
-      url: 'uploads/resume.pdf'
+    buttons:
+      - text: "Download CV"
+        url: "uploads/cv.pdf"
+      - text: "Download Resume"
+        url: "uploads/resume.pdf"
+  
     company_name: GenCoin
     company_url: ''
     company_logo: ''
