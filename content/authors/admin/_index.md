@@ -79,6 +79,9 @@ work:
     button:
       text: 'Download CV'
       url: 'uploads/cv.pdf'
+    button:
+      text: 'Download Resume'
+      url: 'uploads/resume.pdf'
     company_name: GenCoin
     company_url: ''
     company_logo: ''
