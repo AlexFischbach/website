@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alex Fischbach
+title: Alexandra Fischbach
 
 # Name pronunciation (optional)
 name_pronunciation: ''
