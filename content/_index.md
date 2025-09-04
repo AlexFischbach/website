@@ -41,20 +41,19 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-
-        My research program addresses a fundamental problem in neuroimaging: differentiating meaningful neural signals from noise — factors that influence the fMRI signal but are             unrelated to brain activity.
+  
+        My research program addresses a fundamental problem in neuroimaging: differentiating meaningful neural signals from noise—factors that influence the fMRI signal but are unrelated to brain activity.
   
         If not properly removed, this noise:
         - reduces statistical power
         - decreases the likelihood of detecting true effects
         - increases false positives
         - ultimately undermines confidence in findings
-
-       To overcome these challenges, my research develops novel computational methods to identify and remove this artifactual signal, thereby enhancing the accuracy and reliability          of fMRI data.
-
-       By strengthening measurement precision and interpretability, this work enables more robust and actionable insights into brain function
   
-.
+        To overcome these challenges, my research develops novel computational methods to identify and remove artifactual signal, thereby enhancing the accuracy and reliability of fMRI data.
+  
+        By strengthening measurement precision and interpretability, this work enables more robust and actionable insights into brain function.
+
     design:
       columns: '1'
   - block: collection
